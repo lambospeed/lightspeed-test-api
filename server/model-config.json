@@ -31,5 +31,25 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Account": {
+    "dataSource": "lightspeedDB",
+    "public": true
+  },
+  "Contact": {
+    "dataSource": "lightspeedDB",
+    "public": true
+  },
+  "Address": {
+    "dataSource": "lightspeedDB",
+    "public": true
+  },
+  "Phone": {
+    "dataSource": "lightspeedDB",
+    "public": true
+  },
+  "Emailaddress": {
+    "dataSource": "lightspeedDB",
+    "public": true
   }
 }
