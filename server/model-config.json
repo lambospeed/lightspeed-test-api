@@ -32,10 +32,6 @@
     "dataSource": "db",
     "public": false
   },
-  "Account": {
-    "dataSource": "lightspeedDB",
-    "public": true
-  },
   "Contact": {
     "dataSource": "lightspeedDB",
     "public": true
