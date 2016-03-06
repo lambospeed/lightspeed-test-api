@@ -16,8 +16,7 @@
       "required": true
     },
     "job": {
-      "type": "string",
-      "required": true
+      "type": "string"
     },
     "picture": {
       "type": "string"
